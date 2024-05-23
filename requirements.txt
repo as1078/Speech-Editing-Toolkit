@@ -23,3 +23,4 @@ praat-parselmouth==0.3.3
 jieba
 einops
 chardet
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
